@@ -1,0 +1,133 @@
+    body{
+        background: rgb(3, 0, 10) 
+
+
+        
+    }
+
+    #container { 
+    background: url(imagens/earth-gd1f1f21d3_640.jpg) ;
+    height:250px;
+    width: 100%;
+
+    }
+
+    #logo a  {
+        font-family: 'Lilita One', cursive;
+        padding-bottom: 100px;
+    color: rgb(1, 1, 36);
+    background:rgb(178, 180, 178);
+    border-radius: 10px;
+
+    }
+
+    #logo h1{
+        padding-top: 100px;
+        padding-left: 400px;
+    }
+
+    #logo img{
+        padding-left: 540px;
+    }
+
+    nav ul a:link{
+        background: rgb(12, 40, 10);
+        float: right ;
+        text-align: center;
+        text-decoration: none;
+        margin-left: 100px;
+        padding: 20px 20px;
+        border-radius: 10px;
+    
+    }
+
+    nav li a {
+        color:rgb(6, 0, 19);
+    }
+
+    nav ul li {
+        float: left;
+        list-style: none;
+        padding: 30px;
+        
+    }
+
+    nav ul li a:hover{
+        border-bottom: 5px solid rgb(140, 148, 141);
+    }
+
+    #nyfoto {
+    padding-top: 100px;
+    padding-left: 50px;
+    float: left;
+    }
+
+    #ny h2, p{
+        color:azure;
+        display: inline-block;
+        vertical-align: top;
+        width: 55%;
+        margin-right: 15%;
+        padding-left: 50px;
+        padding-top: 80px;
+    }
+        
+    #jpfoto {
+        padding-top: 100px;
+        padding-left: 50px;
+        float: left;
+        }
+        
+        #jp h2, p{
+            padding-top: 80px;
+            color:azure;
+            display: inline-block;
+            vertical-align: top;
+            width: 55%;
+            margin-right: 15%;
+            padding-left: 50px;
+            padding-bottom: 10px;
+        }
+
+      
+ #jmfoto {
+        padding-top: 100px;
+        padding-left: 50px;
+        float: left;
+        
+        }
+        
+        #jm h2, p{
+            color:azure;
+            display: inline-block;
+            vertical-align: top;
+            width: 55%;
+            margin-right: 15%;
+            padding-left: 50px;
+            padding-bottom: -30px;
+            padding-top: 100px;
+        }
+            
+        #prfoto {
+            padding-top: 100px;
+            padding-left: 50px;
+            float: left;
+            }
+            
+            #pr h2, p{
+                color:azure;
+                display: inline-block;
+                vertical-align: top;
+                width: 55%;
+                margin-right: 15%;
+                padding-left: 50px;
+                padding-bottom: 15px;
+                padding-top: 90px;
+            }
+        #rodape {
+            clear: both;
+            padding: 16px;
+            background:rgb(178, 180, 178) repeat-x top;
+            color:#000242;
+            font-family: 'Caprasimo', cursive;
+        }
